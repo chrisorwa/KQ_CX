@@ -1,0 +1,526 @@
+DATE,SCHED_TIME,FLIGHT,TO,AIRLINE,AIRCRAFT,STRING_STATUS,STATUS,DEP_TIME,DEP_DIFF
+28/03/2023,0:05,KQ478,Kigali (KGL),Kenya Airways,E90,Departed 12:18 AM,Departed,0:18:00,13
+28/03/2023,0:35,QR8776,Liege (LGG),Qatar Cargo,B77L (A7-BFK),Departed 12:38 AM,Departed,0:38:00,3
+28/03/2023,0:55,KQ418,Entebbe (EBB),Kenya Airways (Come Live The Magic Livery),E190 (5Y-FFJ),Departed 1:29 AM,Departed,1:29:00,34
+28/03/2023,1:15,QR1342,Doha (DOH),Qatar Airways,A35K (A7-ANH),Departed 1:20 AM,Departed,1:20:00,5
+28/03/2023,1:40,QR8776,Liege (LGG),Qatar Cargo,B77L (A7-BFK),Departed 12:39 AM,Departed,0:39:00,-61
+28/03/2023,2:00,TK6694,Istanbul (IST),Turkish Airlines,77F,Unknown,Unknown,,Unknown
+28/03/2023,3:20,CV2611,Amsterdam (AMS),Cargolux,B744 (LX-YCV),Departed 5:20 AM,Departed,5:20:00,0
+28/03/2023,3:35,TK6427,Istanbul (IST),Turkish Cargo,A332 (TC-JOV),Departed 7:01 AM,Departed,7:01:00,26
+28/03/2023,3:45,KQ882,Guangzhou (CAN),Kenya Airways (Come Live The Magic Livery),B788 (5Y-KZD),Departed 5:00 AM,Departed,5:00:00,15
+28/03/2023,5:00,ET309,Addis Ababa (ADD),Ethiopian Airlines,B77L (ET-ANP),Departed 5:16 AM,Departed,5:16:00,16
+28/03/2023,5:25,MS850,Cairo (CAI),EgyptAir,B738 (SU-GDC),Departed 5:57 AM,Departed,5:57:00,32
+28/03/2023,5:25,TK608,Istanbul (IST),Turkish Airlines,B738 (TC-JHP),Departed 6:47 AM,Departed,6:47:00,22
+28/03/2023,5:35,WB464,Kigali (KGL),RwandAir,DH4,Unknown,Unknown,,Unknown
+28/03/2023,6:00,JM8650,Kisumu (KIS),Jambojet,DH8D (5Y-JXD),Departed 6:15 AM,Departed,6:15:00,15
+28/03/2023,6:00,D9301,Mogadishu (MGQ),Daallo Airlines,B734 (5Y-FQB),Departed 7:18 AM,Departed,7:18:00,18
+28/03/2023,6:00,5H417,Mombasa (MBA),Fly540,DH8,Unknown,Unknown,,Unknown
+28/03/2023,6:10,JM8660,Eldoret (EDL),Jambojet,DH8D (5Y-JXM),Departed 6:19 AM,Departed,6:19:00,9
+28/03/2023,6:30,KQ600,Mombasa (MBA),Kenya Airways,E90,Departed 6:36 AM,Departed,6:36:00,6
+28/03/2023,6:35,JM8600,Mombasa (MBA),Jambojet,DH8D (5Y-JXH),Departed 6:45 AM,Departed,6:45:00,10
+28/03/2023,7:00,KQ2722,Lusaka (LUN),Kenya Airways,73Y,Unknown,Unknown,,Unknown
+28/03/2023,7:00,K3911,Juba (JUB),Taquan Air,72F,Unknown,Unknown,,Unknown
+28/03/2023,7:00,K3922,Entebbe (EBB),Taquan Air,72F,Unknown,Unknown,,Unknown
+28/03/2023,7:00,4F310,Galcaio (GLK),Freedom Airline Express,EM2,Unknown,Unknown,,Unknown
+28/03/2023,7:00,4F101,Mogadishu (MGQ),Freedom Airline Express,CRJ,Unknown,Unknown,,Unknown
+28/03/2023,7:15,JM8640,Malindi (MYD),Jambojet,DH8D (5Y-JXB),Departed 7:21 AM,Departed,7:21:00,6
+28/03/2023,7:20,KQ730,Lilongwe (LLW),Kenya Airways (Come Live The Magic Livery),E190 (5Y-FFJ),Departed 7:43 AM,Departed,7:43:00,23
+28/03/2023,7:30,KQ782,Livingstone (LVI),Kenya Airways (SkyTeam Livery),E190 (5Y-FFB),Departed 7:44 AM,Departed,7:44:00,14
+28/03/2023,7:40,KQ482,Dar-es-Salaam (DAR),Kenya Airways,E90,Departed 7:54 AM,Departed,7:54:00,14
+28/03/2023,7:40,KQ470,Kigali (KGL),Kenya Airways,E190 (5Y-FFK),Departed 7:49 AM,Departed,7:49:00,9
+28/03/2023,7:40,KQ554,Kinshasa (FIH),Kenya Airways,E190 (5Y-FFA),Departed 7:52 AM,Departed,7:52:00,12
+28/03/2023,7:45,KQ420,Entebbe (EBB),Kenya Airways,E190 (5Y-FFC),Departed 7:57 AM,Departed,7:57:00,12
+28/03/2023,7:45,KQ760,Johannesburg (JNB),Kenya Airways,B788 (5Y-KZA),Departed 8:04 AM,Departed,8:04:00,19
+28/03/2023,8:00,KQ490,Zanzibar (ZNZ),Kenya Airways,E90,Unknown,Unknown,,Unknown
+28/03/2023,8:00,KQ602,Mombasa (MBA),Kenya Airways,E190 (5Y-FFH),Departed 8:13 AM,Departed,8:13:00,13
+28/03/2023,8:00,UR203,Entebbe (EBB),Uganda Airlines,CRJ9 (5X-EQU),Departed 8:43 AM,Departed,8:43:00,43
+28/03/2023,8:00,XU557,Mogadishu (MGQ),African Express Airways,DC9,Unknown,Unknown,,Unknown
+28/03/2023,8:00,7C5209,Juba (JUB),Jeju Air,72F,Unknown,Unknown,,Unknown
+28/03/2023,8:00,8V80,Juba (JUB),Astral Aviation,727,Unknown,Unknown,,Unknown
+28/03/2023,8:00,8V100,Harare (HRE),Astral Aviation,D9C,Unknown,Unknown,,Unknown
+28/03/2023,8:15,KQ520,Abidjan (ABJ),Kenya Airways,B738 (5Y-CYD),Departed 8:24 AM,Departed,8:24:00,9
+28/03/2023,8:15,KQ532,Lagos (LOS),Kenya Airways,B738 (5Y-KYF),Departed 8:29 AM,Departed,8:29:00,14
+28/03/2023,8:20,PW718,Kilimanjaro (JRO),Precision Air,AT7,Unknown,Unknown,,Unknown
+28/03/2023,8:25,JM8712,Mombasa (MBA),Jambojet,DH8D (5Y-JXI),Departed 8:39 AM,Departed,8:39:00,14
+28/03/2023,8:30,8V2601,Liege (LGG),JetOneX,B744 (TF-AMD),Departed 9:33 AM,Departed,9:33:00,3
+28/03/2023,8:35,KQ654,Kisumu (KIS),Kenya Airways,E190 (5Y-FFG),Departed 8:48 AM,Departed,8:48:00,13
+28/03/2023,9:00,JM8684,Lamu (LAU),Jambojet,DH8D (5Y-JXD),Departed 9:12 AM,Departed,9:12:00,12
+28/03/2023,9:10,JM8652,Kisumu (KIS),Jambojet,DH8D (5Y-JXM),Departed 9:19 AM,Departed,9:19:00,9
+28/03/2023,9:20,KQ100,London (LHR),Kenya Airways,B788 (5Y-KZB),Departed 9:30 AM,Departed,9:30:00,10
+28/03/2023,9:30,4F101,Mogadishu (MGQ),Freedom Airline Express,CRJ,Unknown,Unknown,,Unknown
+28/03/2023,9:40,5H1411,Malindi (MYD),Fly540,DH8,Unknown,Unknown,,Unknown
+28/03/2023,10:00,4F801,Galcaio (GLK),Freedom Airline Express,EM2,Unknown,Unknown,,Unknown
+28/03/2023,10:00,EY957,Amsterdam (AMS),Etihad Cargo,B77L (A6-DDB),Departed 9:37 AM,Departed,9:37:00,-23
+28/03/2023,10:10,JM8690,Ukunda (UKA),Jambojet,DH8D (5Y-JXH),Departed 10:10 AM,Departed,10:10:00,0
+28/03/2023,10:15,UR203,Entebbe (EBB),Uganda Airlines,CRJ9 (5X-EQU),Unknown,Unknown,,Unknown
+28/03/2023,10:20,KQ604,Mombasa (MBA),Kenya Airways,E90,Departed 10:20 AM,Departed,10:20:00,0
+28/03/2023,10:30,KQ264,Moroni (HAH),Kenya Airways,B738 (5Y-KYE),Departed 10:45 AM,Departed,10:45:00,15
+28/03/2023,10:45,JM8604,Mombasa (MBA),Jambojet,DH8D (5Y-JXB),Departed 10:51 AM,Departed,10:51:00,6
+28/03/2023,11:20,WB453,Kigali (KGL),RwandAir,DH4,Unknown,Unknown,,Unknown
+28/03/2023,11:30,KQ510,Accra (ACC),Kenya Airways,B738 (5Y-CYA),Departed 12:06 PM,Departed,12:06:00,36
+28/03/2023,11:45,ET319,Addis Ababa (ADD),Ethiopian Airlines,B77W (ET-APY),Unknown,Unknown,,Unknown
+28/03/2023,12:00,KQ2352,Juba (JUB),Kenya Airways,73Y,Unknown,Unknown,,Unknown
+28/03/2023,12:05,KQ400,Addis Ababa (ADD),Kenya Airways,E190 (5Y-FFG),Departed 12:18 PM,Departed,12:18:00,13
+28/03/2023,12:10,JM8662,Eldoret (EDL),Jambojet,DH8D (5Y-JXM),Departed 12:20 PM,Departed,12:20:00,10
+28/03/2023,12:20,JM8716,Mombasa (MBA),Jambojet,DH8D (5Y-JXC),Departed 12:28 PM,Departed,12:28:00,8
+28/03/2023,12:35,KQ762,Johannesburg (JNB),Kenya Airways,B788 (5Y-KZE),Departed 1:02 PM,Departed,13:02:00,27
+28/03/2023,12:40,JM8658,Kisumu (KIS),Jambojet,DH8D (5Y-JXH),Departed 2:13 PM,Departed,14:13:00,33
+28/03/2023,12:40,KQ270,Port Louis (MRU),Kenya Airways,E190 (5Y-FFK),Departed 12:58 PM,Departed,12:58:00,18
+28/03/2023,13:00,KQ352,Juba (JUB),Kenya Airways,E190 (5Y-FFH),Departed 1:21 PM,Departed,13:21:00,21
+28/03/2023,13:00,KQ464,Bujumbura (BJM),Kenya Airways,E190 (5Y-FFC),Departed 1:15 PM,Departed,13:15:00,15
+28/03/2023,13:00,KQ606,Mombasa (MBA),Kenya Airways,E90,Departed 1:07 PM,Departed,13:07:00,7
+28/03/2023,13:15,KQ704,Harare (HRE),Kenya Airways,B738 (5Y-KYD),Departed 1:42 PM,Departed,13:42:00,27
+28/03/2023,13:40,5H429,Eldoret (EDL),Fly540,DH8,Unknown,Unknown,,Unknown
+28/03/2023,13:45,G9735,Sharjah (SHJ),Air Arabia,A21N (A6-ATD),Departed 2:17 PM,Departed,14:17:00,32
+28/03/2023,13:50,JM8642,Malindi (MYD),Jambojet,DH8D (5Y-JXB),Departed 2:21 PM,Departed,14:21:00,31
+28/03/2023,14:15,KQ414,Entebbe (EBB),Kenya Airways,E90,Departed 2:24 PM,Departed,14:24:00,9
+28/03/2023,15:00,KQ608,Mombasa (MBA),Kenya Airways,E90,Departed 3:04 PM,Departed,15:04:00,4
+28/03/2023,15:05,JM8654,Kisumu (KIS),Jambojet,DH8D (5Y-JXM),Departed 4:19 PM,Departed,16:19:00,14
+28/03/2023,15:10,JM8668,Eldoret (EDL),Jambojet,DH8D (5Y-JXH),Departed 5:21 PM,Departed,17:21:00,11
+28/03/2023,15:45,JM8692,Ukunda (UKA),Jambojet,DH4,Unknown,Unknown,,Unknown
+28/03/2023,16:05,JM8720,Mombasa (MBA),Jambojet,DH8D (5Y-JXC),Departed 4:23 PM,Departed,16:23:00,18
+28/03/2023,16:35,EK720,Dubai (DXB),Emirates,B77W (A6-ENM),Departed 4:38 PM,Departed,16:38:00,3
+28/03/2023,16:45,KQ202,Mumbai (BOM),Kenya Airways,B738 (5Y-CYC),Departed 4:50 PM,Departed,16:50:00,5
+28/03/2023,17:00,KQ610,Mombasa (MBA),Kenya Airways,E90,Departed 5:05 PM,Departed,17:05:00,5
+28/03/2023,17:10,KQ310,Dubai (DXB),Kenya Airways,B788 (5Y-KZA),Departed 6:53 PM,Departed,18:53:00,43
+28/03/2023,17:25,JM8644,Malindi (MYD),Jambojet,DH8D (5Y-JXM),Departed 7:20 PM,Departed,19:20:00,55
+28/03/2023,17:25,KQ670,Kisumu (KIS),Kenya Airways (Come Live The Magic Livery),E190 (5Y-FFJ),Departed 5:30 PM,Departed,17:30:00,5
+28/03/2023,17:25,JM8612,Mombasa (MBA),Jambojet,DH8,Unknown,Unknown,,Unknown
+28/03/2023,18:00,8V501,Dubai (DWC),Astral Aviation,767,Unknown,Unknown,,Unknown
+28/03/2023,18:00,8V504,Hong Kong (HKG),Astral Aviation,767,Unknown,Unknown,,Unknown
+28/03/2023,18:05,JM8656,Kisumu (KIS),Jambojet,DH4,Canceled,Canceled,,Unknown
+28/03/2023,18:10,JM8664,Eldoret (EDL),Jambojet,DH8D (5Y-JXB),Departed 5:23 PM,Departed,17:23:00,-47
+28/03/2023,18:10,QR1336,Doha (DOH),Qatar Airways,A332 (A7-ACS),Departed 6:26 PM,Departed,18:26:00,16
+28/03/2023,18:30,KQ486,Dar-es-Salaam (DAR),Kenya Airways,E190 (5Y-FFC),Departed 6:36 PM,Departed,18:36:00,6
+28/03/2023,18:30,ET319,Addis Ababa (ADD),Ethiopian Airlines,B77W (ET-APY),Departed 6:47 PM,Departed,18:47:00,17
+28/03/2023,18:35,KQ416,Entebbe (EBB),Kenya Airways,E190 (5Y-FFH),Departed 6:51 PM,Departed,18:51:00,16
+28/03/2023,18:40,5H405,Mombasa (MBA),Fly540,DH8,Unknown,Unknown,,Unknown
+28/03/2023,18:45,ET3303,Addis Ababa (ADD),Ethiopian Airlines,763,Unknown,Unknown,,Unknown
+28/03/2023,19:00,ET307,Addis Ababa (ADD),Ethiopian Airlines,77L,Canceled,Canceled,,Unknown
+28/03/2023,19:00,KQ612,Mombasa (MBA),Kenya Airways,E90,Departed 7:06 PM,Departed,19:06:00,6
+28/03/2023,19:25,JM8612,Mombasa (MBA),Jambojet,DH8D (5Y-JXC),Departed 8:21 PM,Departed,20:21:00,56
+28/03/2023,19:25,PW712,Zanzibar (ZNZ),Precision Air,AT7,Unknown,Unknown,,Unknown
+28/03/2023,19:45,KQ306,Mombasa (MBA),Kenya Airways,B738 (5Y-KYE),Departed 7:59 PM,Departed,19:59:00,14
+28/03/2023,19:45,JM8718,Mombasa (MBA),Jambojet,DH4,Unknown,Unknown,,Unknown
+28/03/2023,20:10,PW720,Kilimanjaro (JRO),Precision Air,AT7,Unknown,Unknown,,Unknown
+28/03/2023,20:50,KQ204,Mumbai (BOM),Kenya Airways (SkyTeam Livery),B738 (5Y-CYE),Departed 9:09 PM,Departed,21:09:00,19
+28/03/2023,20:50,WB403,Kigali (KGL),RwandAir,DH4,Unknown,Unknown,,Unknown
+28/03/2023,21:00,KQ764,Johannesburg (JNB),Kenya Airways,B738 (5Y-KYF),Departed 9:26 PM,Departed,21:26:00,26
+28/03/2023,21:00,KQ2764,Johannesburg (JNB),Kenya Airways,73Y,Scheduled,Scheduled,,Unknown
+28/03/2023,21:20,JM8714,Mombasa (MBA),Jambojet,DH8D (5Y-JXI),Departed 9:23 PM,Departed,21:23:00,3
+28/03/2023,21:30,KQ2726,Harare (HRE),Kenya Airways,73Y,Scheduled,Scheduled,,Unknown
+28/03/2023,21:45,TK6366,Istanbul (IST),Turkish Airlines,33X,Scheduled,Scheduled,,Unknown
+28/03/2023,22:00,KQ258,Victoria (SEZ),Kenya Airways,E90,Scheduled,Scheduled,,Unknown
+28/03/2023,22:10,TC203,Dar-es-Salaam (DAR),Air Tanzania,DH8,Scheduled,Scheduled,,Unknown
+28/03/2023,22:25,LH591,Frankfurt (FRA),Lufthansa,A333 (D-AIKR),Departed 10:35 PM,Departed,22:35:00,10
+28/03/2023,22:30,KQ262,Antananarivo (TNR),Kenya Airways,E90,Scheduled,Scheduled,,Unknown
+28/03/2023,22:45,BA64,London (LHR),British Airways,A35K (G-XWBK),Departed 10:52 PM,Departed,22:52:00,7
+28/03/2023,22:45,EK722,Dubai (DXB),Emirates,B77W (A6-EPU),Departed 10:45 PM,Departed,22:45:00,0
+28/03/2023,22:45,UR205,Entebbe (EBB),Uganda Airlines,CRJ,Scheduled,Scheduled,,Unknown
+28/03/2023,23:00,ZF332,Liege (LGG),Magma Aviation,B744 (TF-AMI),Departed 11:10 PM,Departed,23:10:00,10
+28/03/2023,23:20,KQ348,Khartoum (KRT),Kenya Airways,E90,Canceled,Canceled,,Unknown
+28/03/2023,23:30,AF813,Paris (CDG),Air France,B789 (F-HRBF),Departed 11:40 PM,Departed,23:40:00,10
+28/03/2023,23:30,UU977,Paris (CDG),Air Austral,B788 (F-OLRC),Departed 11:40 PM,Departed,23:40:00,10
+28/03/2023,23:35,KQ2,New York (JFK),Kenya Airways,B788,Departed 12:01 AM,Departed,0:01:00,-1414
+28/03/2023,23:45,KQ488,Dar-es-Salaam (DAR),Kenya Airways,E90,Scheduled,Scheduled,,Unknown
+28/03/2023,23:50,KQ112,Paris (CDG),Kenya Airways,B788 (5Y-KZG),Departed 12:00 AM,Departed,0:00:00,-1430
+28/03/2023,23:59,KL566,Amsterdam (AMS),KLM,B78X (PH-BKG),Departed 12:09 AM,Departed,0:09:00,-1430
+28/03/2023,23:59,KQ624,Mombasa (MBA),Kenya Airways,E90,Scheduled,Scheduled,,Unknown
+27/03/2023,0:55:00,KQ418,Entebbe (EBB),Kenya Airways (Come Live The Magic Livery),E190 (5Y-FFJ),,Departed,1:00:00,5
+27/03/2023,1:10:00,KQ102,London (LHR),Kenya Airways,B788 (5Y-KZE),,Departed,1:30:00,20
+27/03/2023,1:15:00,QR1342,Doha (DOH),Qatar Airways,A35K (A7-ANQ),,Departed,1:28:00,13
+27/03/2023,1:15:00,SQ7343,Amsterdam (AMS),Singapore Airlines Cargo,B744 (9V-SFM),,Departed,1:02:00,-13
+27/03/2023,2:15:00,TK6693,Istanbul (IST),Turkish Airlines,77F,,Unknown,0:00:00,-135
+27/03/2023,3:05:00,SQ7343,Amsterdam (AMS),Singapore Airlines Cargo,B744 (9V-SFM),,Departed,1:02:00,-123
+27/03/2023,5:00:00,ET309,Addis Ababa (ADD),Ethiopian Airlines,A359 (ET-AWN),,Departed,5:21:00,21
+27/03/2023,5:25:00,MS850,Cairo (CAI),EgyptAir,B738 (SU-GEC),,Departed,5:48:00,23
+27/03/2023,5:35:00,WB464,Kigali (KGL),RwandAir,DH4,,Unknown,0:00:00,-335
+27/03/2023,6:00:00,JM8650,Kisumu (KIS),Jambojet,DH8D (5Y-JXD),,Departed,6:18:00,18
+27/03/2023,6:00:00,5H417,Mombasa (MBA),Fly540,DHC,,Unknown,0:00:00,-360
+27/03/2023,6:00:00,8V2607,Liege (LGG),Astral Aviation,B744 (TF-AMU),,Departed,6:15:00,15
+27/03/2023,6:05:00,TK638,Istanbul (IST),Turkish Airlines,A333 (TC-LND),,Departed,6:28:00,23
+27/03/2023,6:10:00,JM8660,Eldoret (EDL),Jambojet,DH8D (5Y-JXB),,Departed,6:47:00,37
+27/03/2023,6:15:00,K3905,Djibouti (JIB),Taquan Air,72F,,Unknown,0:00:00,-375
+27/03/2023,6:30:00,KQ600,Mombasa (MBA),Kenya Airways,E90,,Departed,6:46:00,16
+27/03/2023,6:30:00,SV434,Jeddah (JED),Saudia,A333 (HZ-AQ21),,Departed,6:43:00,13
+27/03/2023,6:30:00,XU527,Mogadishu (MGQ),African Express Airways,CR2,,Unknown,0:00:00,-390
+27/03/2023,6:35:00,JM8600,Mombasa (MBA),Jambojet,DH8D (5Y-JXC),,Departed,6:49:00,14
+27/03/2023,6:40:00,5H1407,Kisumu (KIS),Fly540,DH8,,Unknown,0:00:00,-400
+27/03/2023,6:45:00,K3915,Johannesburg (JNB),Taquan Air,72F,,Unknown,0:00:00,-405
+27/03/2023,7:00:00,KQ350,Juba (JUB),Kenya Airways,E90,,Departed,7:16:00,16
+27/03/2023,7:00:00,KQ2564,Douala (DLA),Kenya Airways,73Y,,Unknown,0:00:00,-420
+27/03/2023,7:00:00,KQ2722,Lusaka (LUN),Kenya Airways,73Y,,Unknown,0:00:00,-420
+27/03/2023,7:00:00,K3932,Port Louis (MRU),Taquan Air,72F,,Unknown,0:00:00,-420
+27/03/2023,7:00:00,K3974,Khartoum (KRT),Taquan Air,72F,,Unknown,0:00:00,-420
+27/03/2023,7:00:00,K3981,Pemba (POL),Taquan Air,72F,,Unknown,0:00:00,-420
+27/03/2023,7:15:00,JM8640,Malindi (MYD),Jambojet,DH8D (5Y-JXH),,Departed,7:35:00,20
+27/03/2023,7:15:00,KQ706,Lusaka (LUN),Kenya Airways,B738 (5Y-KYE),,Departed,7:46:00,31
+27/03/2023,7:20:00,KQ400,Addis Ababa (ADD),Kenya Airways,E190 (5Y-FFA),,Departed,7:59:00,39
+27/03/2023,7:30:00,KQ792,Victoria Falls (VFA),Kenya Airways,E190 (5Y-FFG),,Departed,8:23:00,53
+27/03/2023,7:30:00,K3907,Addis Ababa (ADD),Taquan Air,72F,,Unknown,0:00:00,-450
+27/03/2023,7:35:00,KQ460,Bujumbura (BJM),Kenya Airways,B738 (5Y-CYD),,Departed,8:04:00,29
+27/03/2023,7:35:00,KQ584,Ndola (NLA),Kenya Airways (SkyTeam Livery),B738 (5Y-CYE),,Departed,8:20:00,45
+27/03/2023,7:40:00,KQ270,Port Louis (MRU),Kenya Airways,E190 (5Y-FFC),,Departed,7:53:00,13
+27/03/2023,7:40:00,KQ482,Dar-es-Salaam (DAR),Kenya Airways,E190 (5Y-FFH),,Departed,8:09:00,29
+27/03/2023,7:40:00,KQ554,Kinshasa (FIH),Kenya Airways (SkyTeam Livery),E190 (5Y-FFB),,Departed,8:18:00,38
+27/03/2023,7:40:00,QR8750,Liege (LGG),Qatar Cargo,B77L (A7-BFF),,Departed,7:41:00,1
+27/03/2023,7:40:00,TC201,Dar-es-Salaam (DAR),Air Tanzania,DH8D (5H-TCD),,Departed,7:37:00,-3
+27/03/2023,7:45:00,KQ420,Entebbe (EBB),Kenya Airways,E90,,Departed,8:27:00,42
+27/03/2023,7:45:00,KQ760,Johannesburg (JNB),Kenya Airways,B788 (5Y-KZF),,Departed,8:12:00,27
+27/03/2023,7:55:00,,Paris (CDG),Kenya Airways,B788 (5Y-KZB),,Departed,8:36:00,41
+27/03/2023,8:00:00,JM8698,Ukunda (UKA),Jambojet,DH8D (5Y-JXM),,Departed,8:07:00,7
+27/03/2023,8:00:00,KQ490,Zanzibar (ZNZ),Kenya Airways,E90,,Departed,8:45:00,45
+27/03/2023,8:00:00,KQ602,Mombasa (MBA),Kenya Airways (Come Live The Magic Livery),E190 (5Y-FFJ),,Departed,8:22:00,22
+27/03/2023,8:00:00,KQ2580,Lubumbashi (FBM),Kenya Airways,73Y,,Unknown,0:00:00,-480
+27/03/2023,8:00:00,UR203,Entebbe (EBB),Uganda Airlines,CRJ9 (5X-EQU),,Departed,7:49:00,-11
+27/03/2023,8:00:00,8V100,Harare (HRE),Astral Aviation,737,,Unknown,0:00:00,-480
+27/03/2023,8:20:00,PW718,Kilimanjaro (JRO),Precision Air,AT7,,Unknown,0:00:00,-500
+27/03/2023,8:25:00,JM8712,Mombasa (MBA),Jambojet,DH8D (5Y-JXI),,Departed,8:42:00,17
+27/03/2023,8:35:00,KQ654,Kisumu (KIS),Kenya Airways,E190 (5Y-FFK),,Departed,8:29:00,-6
+27/03/2023,9:00:00,JM8684,Lamu (LAU),Jambojet,DH8D (5Y-JXD),,Departed,9:11:00,11
+27/03/2023,9:00:00,K3929,Sana'a (SAH),Taquan Air,72F,,Unknown,0:00:00,-540
+27/03/2023,9:10:00,JM8652,Kisumu (KIS),Jambojet,DH8D (5Y-JXB),,Departed,9:27:00,17
+27/03/2023,9:20:00,KQ100,London (LHR),Kenya Airways,B788 (5Y-KZG),,Departed,9:29:00,9
+27/03/2023,9:30:00,4F101,Mogadishu (MGQ),Freedom Airline Express,CRJ,,Unknown,0:00:00,-570
+27/03/2023,9:40:00,5H1411,Malindi (MYD),Fly540,DHC,,Unknown,0:00:00,-580
+27/03/2023,10:10:00,JM8690,Ukunda (UKA),Jambojet,DH8D (5Y-JXC),,Departed,10:03:00,-7
+27/03/2023,10:20:00,KQ604,Mombasa (MBA),Kenya Airways,E90,,Departed,10:19:00,-1
+27/03/2023,10:45:00,JM8604,Mombasa (MBA),Jambojet,DH8D (5Y-JXH),,Departed,10:52:00,7
+27/03/2023,11:40:00,JM8540,Goma (GOM),JamboJet,DH8D (5Y-JXE),,Departed,12:52:00,12
+27/03/2023,11:45:00,ET319,Addis Ababa (ADD),Ethiopian Airlines,B77W (ET-ASL),,Departed,18:45:00,0
+27/03/2023,12:00:00,ET3305,Addis Ababa (ADD),Ethiopian Airlines,763,,Unknown,0:00:00,-720
+27/03/2023,12:00:00,KQ508,Accra (ACC),Kenya Airways,B738 (5Y-CYA),,Departed,11:17:00,-43
+27/03/2023,12:00:00,8V30,Pemba (POL),Astral Aviation,72Y,,Unknown,0:00:00,-720
+27/03/2023,12:05:00,KQ578,Entebbe (EBB),Kenya Airways (Come Live The Magic Livery),E190 (5Y-FFJ),,Departed,12:25:00,20
+27/03/2023,12:10:00,JM8662,Eldoret (EDL),Jambojet,DH8D (5Y-JXM),,Departed,12:17:00,7
+27/03/2023,12:15:00,KQ256,Antananarivo (TNR),Kenya Airways,E190 (5Y-FFK),,Departed,12:37:00,22
+27/03/2023,12:20:00,JM8716,Mombasa (MBA),Jambojet,DH8D (5Y-JXB),,Departed,12:33:00,13
+27/03/2023,12:20:00,KQ756,Lilongwe (LLW),Kenya Airways,E90,,Departed,13:04:00,44
+27/03/2023,12:25:00,CZ634,Guangzhou (CAN),China Southern Airlines,A359 (B-308T),,Departed,12:46:00,21
+27/03/2023,12:35:00,KQ762,Johannesburg (JNB),Kenya Airways,B738 (5Y-KYF),,Departed,12:54:00,19
+27/03/2023,12:40:00,JM8658,Kisumu (KIS),Jambojet,DH4,,Unknown,0:00:00,-760
+27/03/2023,12:45:00,KQ250,Victoria (SEZ),Kenya Airways,E190 (5Y-FFH),,Departed,12:57:00,12
+27/03/2023,13:00:00,KQ472,Kigali (KGL),Kenya Airways,E90,,Departed,13:37:00,37
+27/03/2023,13:00:00,KQ606,Mombasa (MBA),Kenya Airways,E90,,Departed,13:09:00,9
+27/03/2023,13:00:00,WB453,Kigali (KGL),RwandAir,DH4,,Unknown,0:00:00,-780
+27/03/2023,13:40:00,5H429,Eldoret (EDL),Fly540,DH8,,Unknown,0:00:00,-820
+27/03/2023,13:45:00,G9735,Sharjah (SHJ),Air Arabia,A21N (A6-ATF),,Departed,14:21:00,36
+27/03/2023,13:50:00,JM8642,Malindi (MYD),Jambojet,DH8D (5Y-JXC),,Departed,13:59:00,9
+27/03/2023,14:00:00,KQ414,Entebbe (EBB),Kenya Airways,E90,,Departed,14:30:00,30
+27/03/2023,14:00:00,5H401,Ukunda (UKA),Fly540,DH8,,Unknown,0:00:00,-840
+27/03/2023,15:00:00,KQ608,Mombasa (MBA),Kenya Airways,E190 (5Y-FFA),,Departed,15:10:00,10
+27/03/2023,15:05:00,JM8654,Kisumu (KIS),Jambojet,DH8D (5Y-JXH),,Departed,15:16:00,11
+27/03/2023,15:10:00,JM8668,Eldoret (EDL),Jambojet,DH8D (5Y-JXM),,Departed,15:18:00,8
+27/03/2023,15:45:00,JM8692,Ukunda (UKA),Jambojet,DH8D (5Y-JXD),,Departed,15:55:00,10
+27/03/2023,15:45:00,KQ8692,Ukunda (UKA),Kenya Airways,DH8D (5Y-JXD),,Departed,15:55:00,10
+27/03/2023,16:05:00,JM8720,Mombasa (MBA),Jambojet,DH4,,Unknown,0:00:00,-965
+27/03/2023,16:30:00,KQ426,Kilimanjaro (JRO),Kenya Airways,E90,,Canceled,0:00:00,-990
+27/03/2023,16:35:00,EK720,Dubai (DXB),Emirates,B77W (A6-EGG),,Departed,16:34:00,-1
+27/03/2023,16:45:00,KQ202,Mumbai (BOM),Kenya Airways,B738 (5Y-CYD),,Departed,16:56:00,11
+27/03/2023,17:00:00,KQ610,Mombasa (MBA),Kenya Airways,E90,,Departed,17:01:00,1
+27/03/2023,17:10:00,KQ310,Dubai (DXB),Kenya Airways (SkyTeam Livery),B738 (5Y-CYE),,Departed,17:58:00,48
+27/03/2023,17:20:00,JM8644,Malindi (MYD),Jambojet,DH8D (5Y-JXM),,Departed,18:17:00,57
+27/03/2023,17:25:00,JM8612,Mombasa (MBA),Jambojet,DH8D (5Y-JXM),,Departed,21:54:00,29
+27/03/2023,17:25:00,KQ670,Kisumu (KIS),Kenya Airways (SkyTeam Livery),E190 (5Y-FFB),,Departed,17:28:00,3
+27/03/2023,17:40:00,5H405,Mombasa (MBA),Fly540,DH8,,Unknown,0:00:00,-1060
+27/03/2023,18:05:00,JM8656,Kisumu (KIS),Jambojet,DH8D (5Y-JXH),,Departed,18:15:00,10
+27/03/2023,18:10:00,JM8664,Eldoret (EDL),Jambojet,DH8D (5Y-JXC),,Departed,17:36:00,-34
+27/03/2023,18:10:00,QR1336,Doha (DOH),Qatar Airways,A332 (A7-ACI),,Departed,18:08:00,-2
+27/03/2023,18:15:00,KQ2766,Lusaka (LUN),Kenya Airways,73Y,,Unknown,0:00:00,-1095
+27/03/2023,18:30:00,KQ486,Dar-es-Salaam (DAR),Kenya Airways,E190 (5Y-FFA),,Departed,18:47:00,17
+27/03/2023,18:30:00,KQ494,Zanzibar (ZNZ),Kenya Airways,E90,,Departed,18:27:00,-3
+27/03/2023,18:30:00,KQ534,Lagos (LOS),Kenya Airways,B738 (5Y-KYE),,Departed,18:39:00,9
+27/03/2023,18:40:00,5H409,Kisumu (KIS),Fly540,DH8,,Unknown,0:00:00,-1120
+27/03/2023,19:00:00,ET307,Addis Ababa (ADD),Ethiopian Airlines,7M8,,Canceled,0:00:00,-1140
+27/03/2023,19:00:00,KQ612,Mombasa (MBA),Kenya Airways,E190 (5Y-FFC),,Departed,19:08:00,8
+27/03/2023,19:25:00,PW712,Zanzibar (ZNZ),Precision Air,AT7,,Unknown,0:00:00,-1165
+27/03/2023,19:45:00,JM8718,Mombasa (MBA),Jambojet,DH8D (5Y-JXC),,Departed,21:16:00,31
+27/03/2023,19:45:00,KQ306,Mombasa (MBA),Kenya Airways,B738 (5Y-CYC),,Departed,20:13:00,28
+27/03/2023,20:00:00,PW720,Kilimanjaro (JRO),Precision Air,AT7,,Unknown,0:00:00,-1200
+27/03/2023,20:05:00,AI962,Delhi (DEL),Air India,B788 (VT-ANN),,Departed,20:22:00,17
+27/03/2023,20:50:00,KQ204,Mumbai (BOM),Kenya Airways,B738 (5Y-KYD),,Departed,21:17:00,27
+27/03/2023,20:50:00,WB403,Kigali (KGL),RwandAir,DH4,,Unknown,0:00:00,-1250
+27/03/2023,21:00:00,KQ764,Johannesburg (JNB),Kenya Airways,B738 (5Y-CYB),,Departed,21:42:00,42
+27/03/2023,21:00:00,8V520,Johannesburg (JNB),Astral Aviation,767,,Unknown,0:00:00,-1260
+27/03/2023,21:00:00,8V20,Johannesburg (JNB),Astral Aviation,727,,Unknown,0:00:00,-1260
+27/03/2023,21:20:00,JM8714,Mombasa (MBA),Jambojet,DH8D (5Y-JXI),,Departed,21:31:00,11
+27/03/2023,21:30:00,QR8722,Doha (DOH),Qatar Cargo,B77L (A7-BFR),,Departed,21:35:00,5
+27/03/2023,21:50:00,TK6455,Istanbul (IST),Turkish Airlines,33X,,Unknown,0:00:00,-1310
+27/03/2023,22:00:00,SV948,Liege (LGG),Saudia Cargo,B744 (9H-AKF),,Departed,22:19:00,19
+27/03/2023,22:10:00,TC203,Dar-es-Salaam (DAR),Air Tanzania,DH8D (5H-TCK),,Departed,22:00:00,-10
+27/03/2023,22:25:00,LH591,Frankfurt (FRA),Lufthansa,A333 (D-AIKP),,Departed,22:28:00,3
+27/03/2023,22:45:00,EK722,Dubai (DXB),Emirates,B77W (A6-EPL),,Departed,23:00:00,15
+27/03/2023,22:45:00,UR205,Entebbe (EBB),Uganda Airlines,CRJ9 (5X-EQU),,Departed,23:04:00,19
+27/03/2023,22:45:00,BA64,London (LHR),British Airways,A35K (G-XWBI),,Departed,23:31:00,46
+27/03/2023,23:00:00,MP8372,Amsterdam (AMS),KLM Cargo,B744 (PH-CKC),,Departed,23:13:00,13
+27/03/2023,23:45:00,KQ488,Dar-es-Salaam (DAR),Kenya Airways,E190 (5Y-FFC),,Departed,0:24:00,39
+27/03/2023,23:50:00,KQ112,Paris (CDG),Kenya Airways,B788 (5Y-KZF),,Departed,0:34:00,44
+27/03/2023,23:50:00,AF838,Paris (CDG),Air France,B789 (F-HRBI),,Departed,0:00:00,10
+27/03/2023,23:59:00,KL566,Amsterdam (AMS),KLM,B78X (PH-BKF),,Departed,0:06:00,7
+27/03/2023,23:59:00,KQ624,Mombasa (MBA),Kenya Airways,E190 (5Y-FFH),,Departed,0:12:00,13
+29/03/2023,0:05,KQ478,Kigali (KGL),Kenya Airways,E190 (5Y-FFH),,Departed,0:25:00,20
+29/03/2023,0:15,KQ498,Zanzibar (ZNZ),Kenya Airways,E90,,Departed,0:24:00,9
+29/03/2023,0:25,TK6124,Istanbul (IST),Turkish Airlines,33F,,Unknown,0:00:00,-25
+29/03/2023,0:45,EK9745,Maastricht (MST),Emirates SkyCargo,B77L (A6-EFU),,Departed,0:46:00,1
+29/03/2023,0:55,KQ418,Entebbe (EBB),Kenya Airways (SkyTeam Livery),E190 (5Y-FFB),,Departed,1:00:00,5
+29/03/2023,1:00,8V2621,Liege (LGG),Astral Aviation,76X,,Unknown,0:00:00,-60
+29/03/2023,1:15,QR1342,Doha (DOH),Qatar Airways,B77W (A7-BAJ),,Departed,1:16:00,1
+29/03/2023,2:50,SV954,Jeddah (JED),Saudia Cargo,B744 (9H-AKJ),,Departed,0:37:00,-133
+29/03/2023,3:20,CV2612,Amsterdam (AMS),Cargolux,B744 (LX-WCV),,Departed,4:38:00,18
+29/03/2023,4:30,8V2602,Liege (LGG),Astral Aviation,B744 (TF-AMU),,Departed,4:46:00,16
+29/03/2023,4:35,TK6492,Istanbul (IST),Turkish Cargo,A332 (TC-JOU),,Departed,5:03:00,28
+29/03/2023,5:00,ET309,Addis Ababa (ADD),Ethiopian Airlines,B738 (ET-AQO),,Departed,5:12:00,12
+29/03/2023,5:25,MS850,Cairo (CAI),Egyptair,B738 (SU-GEF),,Departed,5:51:00,26
+29/03/2023,5:35,WB464,Kigali (KGL),RwandAir,DH4,,Unknown,0:00:00,-335
+29/03/2023,6:00,JM8650,Kisumu (KIS),Jambojet,DH8D (5Y-JXD),,Departed,6:06:00,6
+29/03/2023,6:00,D9301,Mogadishu (MGQ),Daallo Airlines,B734 (5Y-FQB),,Departed,6:44:00,44
+29/03/2023,6:00,5H417,Mombasa (MBA),Fly540,DH8,,Unknown,0:00:00,-360
+29/03/2023,6:05,TK638,Istanbul (IST),Turkish Airlines,A333 (TC-LNE),,Departed,6:56:00,51
+29/03/2023,6:10,JM8660,Eldoret (EDL),Jambojet,DH8D (5Y-JXB),,Departed,6:20:00,10
+29/03/2023,6:30,KQ600,Mombasa (MBA),Kenya Airways,E90,,Departed,6:40:00,10
+29/03/2023,6:30,SV434,Jeddah (JED),Saudia,A333 (HZ-AQ24),,Departed,6:41:00,11
+29/03/2023,6:30,XU553,Garowe (GGR),African Express Airways,CR2,,Unknown,0:00:00,-390
+29/03/2023,6:30,XU525,Mogadishu (MGQ),African Express Airways,CR2,,Unknown,0:00:00,-390
+29/03/2023,6:35,JM8600,Mombasa (MBA),Jambojet,DH8D (5Y-JXM),,Departed,6:59:00,24
+29/03/2023,7:00,KQ2730,Lilongwe (LLW),Kenya Airways,73Y,,Unknown,0:00:00,-420
+29/03/2023,7:00,8V5,Mogadishu (MGQ),Astral Aviation,727,,Unknown,0:00:00,-420
+29/03/2023,7:15,JM8640,Malindi (MYD),Jambojet,DH8D (5Y-JXH),,Departed,7:22:00,7
+29/03/2023,7:15,KQ706,Lusaka (LUN),Kenya Airways,B738 (5Y-CYB),,Departed,7:38:00,23
+29/03/2023,7:20,KQ400,Addis Ababa (ADD),Kenya Airways,E90,,Departed,7:52:00,32
+29/03/2023,7:20,KQ584,Ndola (NLA),Kenya Airways,B738 (5Y-KYD),,Departed,8:08:00,48
+29/03/2023,7:30,KQ570,Douala (DLA),Kenya Airways (SkyTeam Livery),E190 (5Y-FFB),,Departed,7:55:00,25
+29/03/2023,7:30,KQ792,Victoria Falls (VFA),Kenya Airways,E190 (5Y-FFA),,Departed,8:02:00,32
+29/03/2023,7:35,KQ460,Bujumbura (BJM),Kenya Airways,E90,,Departed,7:44:00,9
+29/03/2023,7:40,KQ482,Dar-es-Salaam (DAR),Kenya Airways,B738 (5Y-KYF),,Departed,8:06:00,26
+29/03/2023,7:40,KQ554,Kinshasa (FIH),Kenya Airways,E190 (5Y-FFK),,Departed,8:32:00,52
+29/03/2023,7:40,TC201,Dar-es-Salaam (DAR),Air Tanzania,DH8D (5H-TCF),,Departed,7:33:00,-7
+29/03/2023,7:45,KQ420,Entebbe (EBB),Kenya Airways,E190 (5Y-FFH),,Departed,8:22:00,37
+29/03/2023,7:45,KQ760,Johannesburg (JNB),Kenya Airways,B788 (5Y-KZG),,Departed,8:39:00,54
+29/03/2023,8:00,JM8698,Ukunda (UKA),Jambojet,DH8D (5Y-JXC),,Departed,8:12:00,12
+29/03/2023,8:00,KQ490,Zanzibar (ZNZ),Kenya Airways,E190 (5Y-FFG),,Departed,8:50:00,50
+29/03/2023,8:00,KQ602,Mombasa (MBA),Kenya Airways (Come Live The Magic Livery),E190 (5Y-FFJ),,Departed,8:03:00,3
+29/03/2023,8:00,UR203,Entebbe (EBB),Uganda Airlines,CRJ9 (5X-KDP),,Departed,7:58:00,-2
+29/03/2023,8:00,XU513,Seiyun (GXF),African Express Airways,CR2,,Unknown,0:00:00,-480
+29/03/2023,8:00,8V45,Lilongwe (LLW),Astral Aviation,737,,Unknown,0:00:00,-480
+29/03/2023,8:00,5H441,Mombasa (MBA),Fly540,DH8,,Unknown,0:00:00,-480
+29/03/2023,8:00,,Paris (CDG),Kenya Airways,B788 (5Y-KZB),,Departed,8:37:00,37
+29/03/2023,8:15,KQ532,Lagos (LOS),Kenya Airways,B738 (5Y-CYA),,Departed,7:47:00,-28
+29/03/2023,8:20,PW718,Kilimanjaro (JRO),Precision Air,AT7,,Unknown,0:00:00,-500
+29/03/2023,8:25,JM8712,Mombasa (MBA),Jambojet,DH8D (5Y-JXI),,Departed,8:27:00,2
+29/03/2023,8:35,KQ654,Kisumu (KIS),Kenya Airways,E90,,Departed,8:45:00,10
+29/03/2023,9:00,JM8684,Lamu (LAU),Jambojet,DH8D (5Y-JXD),,Departed,9:06:00,6
+29/03/2023,9:10,JM8652,Kisumu (KIS),Jambojet,DH8D (5Y-JXB),,Departed,9:15:00,5
+29/03/2023,9:10,KQ116,Amsterdam (AMS),Kenya Airways,B788 (5Y-KZA),,Departed,9:41:00,31
+29/03/2023,9:20,KQ100,London (LHR),Kenya Airways (Come Live The Magic Livery),B788 (5Y-KZD),,Departed,9:45:00,25
+29/03/2023,9:30,4F101,Mogadishu (MGQ),Freedom Airline Express,CRJ,,Unknown,0:00:00,-570
+29/03/2023,9:40,5H1411,Malindi (MYD),Fly540,DH8,,Unknown,0:00:00,-580
+29/03/2023,10:10,JM8690,Ukunda (UKA),Jambojet,DH8D (5Y-JXM),,Departed,10:32:00,22
+29/03/2023,10:20,KQ604,Mombasa (MBA),Kenya Airways,E90,,Departed,10:23:00,3
+29/03/2023,10:45,JM8604,Mombasa (MBA),Jambojet,DH8D (5Y-JXH),,Departed,11:14:00,29
+29/03/2023,11:30,KQ510,Accra (ACC),Kenya Airways,B738 (5Y-CYC),,Departed,11:46:00,16
+29/03/2023,11:40,JM8540,Goma (GOM),Jambojet,DH8D (5Y-JXC),,Departed,12:06:00,26
+29/03/2023,11:45,ET319,Addis Ababa (ADD),Ethiopian Airlines,B77W (ET-APY),,Unknown,0:00:00,-705
+29/03/2023,12:00,KQ264,Moroni (HAH),Kenya Airways (SkyTeam Livery),B738 (5Y-CYE),,Departed,12:36:00,36
+29/03/2023,12:00,KQ2412,Entebbe (EBB),Kenya Airways,73Y,,Unknown,0:00:00,-720
+29/03/2023,12:10,JM8662,Eldoret (EDL),Jambojet,DH8D (5Y-JXB),,Departed,12:26:00,16
+29/03/2023,12:10,KQ254,Dzaoudzi (DZA),Kenya Airways (Come Live The Magic Livery),E190 (5Y-FFJ),,Departed,12:33:00,23
+29/03/2023,12:15,KQ256,Antananarivo (TNR),Kenya Airways,E190 (5Y-FFC),,Departed,12:28:00,13
+29/03/2023,12:20,JM8716,Mombasa (MBA),Jambojet,DH8D (5Y-JXD),,Departed,20:10:00,50
+29/03/2023,12:20,KQ756,Lilongwe (LLW),Kenya Airways,E190 (5Y-FFH),,Departed,12:39:00,19
+29/03/2023,12:35,KQ762,Johannesburg (JNB),Kenya Airways,B788 (5Y-KZF),,Departed,12:45:00,10
+29/03/2023,12:40,JM8658,Kisumu (KIS),Jambojet,DH8D (5Y-JXD),,Departed,13:13:00,33
+29/03/2023,12:45,KQ250,Victoria (SEZ),Kenya Airways,E190 (5Y-FFG),,Departed,12:57:00,12
+29/03/2023,13:00,KQ352,Juba (JUB),Kenya Airways,E90,,Departed,13:18:00,18
+29/03/2023,13:00,KQ606,Mombasa (MBA),Kenya Airways,E90,,Departed,13:24:00,24
+29/03/2023,13:00,WB453,Kigali (KGL),RwandAir,DH4,,Unknown,0:00:00,-780
+29/03/2023,13:30,KQ656,Kisumu (KIS),Kenya Airways,E90,,Departed,13:35:00,5
+29/03/2023,13:40,5H429,Eldoret (EDL),Fly540,DH8,,Unknown,0:00:00,-820
+29/03/2023,13:45,G9735,Sharjah (SHJ),Air Arabia,A21N (A6-ATF),,Departed,14:14:00,29
+29/03/2023,13:50,JM8642,Malindi (MYD),Jambojet,DH8D (5Y-JXM),,Departed,14:02:00,12
+29/03/2023,14:00,5H401,Ukunda (UKA),Fly540,DH8,,Unknown,0:00:00,-840
+29/03/2023,14:15,KQ414,Entebbe (EBB),Kenya Airways,E90,,Departed,14:18:00,3
+29/03/2023,15:00,KQ608,Mombasa (MBA),Kenya Airways,73H,,Canceled,0:00:00,-900
+29/03/2023,15:05,JM8654,Kisumu (KIS),Jambojet,DH8D (5Y-JXH),,Departed,15:16:00,11
+29/03/2023,15:10,JM8668,Eldoret (EDL),Jambojet,DH8D (5Y-JXB),,Departed,15:41:00,31
+29/03/2023,15:45,JM8692,Ukunda (UKA),Jambojet,DH8D (5Y-JXD),,Departed,16:08:00,23
+29/03/2023,16:05,JM8720,Mombasa (MBA),Jambojet,DH8D (5Y-JXI),,Departed,17:38:00,33
+29/03/2023,16:35,EK720,Dubai (DXB),Emirates,B77W (A6-EGO),,Departed,16:27:00,-8
+29/03/2023,16:45,KQ202,Mumbai (BOM),Kenya Airways,B738 (5Y-KYD),,Departed,17:20:00,35
+29/03/2023,17:00,KQ610,Mombasa (MBA),Kenya Airways,E90,,Departed,17:10:00,10
+29/03/2023,17:10,KQ310,Dubai (DXB),Kenya Airways,B738 (5Y-CYB),,Departed,17:39:00,29
+29/03/2023,17:20,JM8644,Malindi (MYD),Jambojet,DH8D (5Y-JXC),,Departed,18:13:00,53
+29/03/2023,17:25,JM8612,Mombasa (MBA),Jambojet,DH8D (5Y-JXB),,Departed,18:52:00,27
+29/03/2023,17:25,KQ670,Kisumu (KIS),Kenya Airways,E190 (5Y-FFK),,Departed,17:43:00,18
+29/03/2023,17:30,KQ474,Kigali (KGL),Kenya Airways,E90,,Departed,17:47:00,17
+29/03/2023,17:40,5H405,Mombasa (MBA),Fly540,DH8,,Unknown,0:00:00,-1060
+29/03/2023,18:05,JM8656,Kisumu (KIS),Jambojet,DH8D (5Y-JXH),,Departed,18:15:00,10
+29/03/2023,18:10,JM8664,Eldoret (EDL),Jambojet,DH8D (5Y-JXM),,Departed,17:41:00,-29
+29/03/2023,18:10,QR1336,Doha (DOH),Qatar Airways,A332 (A7-ACT),,Departed,18:22:00,12
+29/03/2023,18:30,KQ486,Dar-es-Salaam (DAR),Kenya Airways,E90,,Departed,18:44:00,14
+29/03/2023,18:30,KQ494,Zanzibar (ZNZ),Kenya Airways,E90,,Departed,18:28:00,-2
+29/03/2023,18:30,ET319,Addis Ababa (ADD),Ethiopian Airlines,B77W (ET-APY),,Departed,18:40:00,10
+29/03/2023,18:40,5H409,Kisumu (KIS),Fly540,DH8,,Unknown,0:00:00,-1120
+29/03/2023,18:45,ET3303,Addis Ababa (ADD),Ethiopian Airlines,763,,Unknown,0:00:00,-1125
+29/03/2023,19:00,ET307,Addis Ababa (ADD),Ethiopian Airlines,788,,Canceled,0:00:00,-1140
+29/03/2023,19:00,KQ612,Mombasa (MBA),Kenya Airways,B738 (5Y-KYF),,Departed,19:12:00,12
+29/03/2023,19:35,PW712,Zanzibar (ZNZ),Precision Air,AT7,,Unknown,0:00:00,-1175
+29/03/2023,19:45,JM8718,Mombasa (MBA),Jambojet,DH8D (5Y-JXI),,Departed,22:09:00,24
+29/03/2023,20:00,KQ2764,Johannesburg (JNB),Kenya Airways,73Y,,Unknown,0:00:00,-1200
+29/03/2023,20:00,PW720,Kilimanjaro (JRO),Precision Air,AT7,,Unknown,0:00:00,-1200
+29/03/2023,20:05,AI962,Delhi (DEL),Air India,B788 (VT-ANG),,Departed,19:58:00,-7
+29/03/2023,20:45,KQ618,Mombasa (MBA),Kenya Airways,E190 (5Y-FFK),,Departed,21:05:00,20
+29/03/2023,20:50,KQ204,Mumbai (BOM),Kenya Airways (SkyTeam Livery),B738 (5Y-CYE),,Departed,21:09:00,19
+29/03/2023,20:50,WB403,Kigali (KGL),RwandAir,DH4,,Unknown,0:00:00,-1250
+29/03/2023,21:00,KQ764,Johannesburg (JNB),Kenya Airways,B738 (5Y-KYE),,Departed,21:24:00,24
+29/03/2023,21:00,8V20,Johannesburg (JNB),Astral Aviation,B752 (5Y-SHJ),,Departed,21:33:00,33
+29/03/2023,21:00,8V40,Lusaka (LUN),Astral Aviation,727,,Unknown,0:00:00,-1260
+29/03/2023,21:20,JM8714,Mombasa (MBA),Jambojet,DH4,,Unknown,0:00:00,-1280
+29/03/2023,21:50,KQ274,Port Louis (MRU),Kenya Airways (Come Live The Magic Livery),E190 (5Y-FFJ),,Departed,22:06:00,16
+29/03/2023,22:10,TC203,Dar-es-Salaam (DAR),Air Tanzania,DH8D (5H-TCK),,Departed,22:39:00,29
+29/03/2023,22:45,BA64,London (LHR),British Airways,A35K (G-XWBK),,Departed,23:06:00,21
+29/03/2023,22:45,UR205,Entebbe (EBB),Uganda Airlines,CRJ9 (5X-KOB),,Departed,22:12:00,-33
+29/03/2023,22:45,TK6512,Istanbul (IST),Turkish Airlines,33X,,Unknown,0:00:00,-1365
+29/03/2023,22:45,EK722,Dubai (DXB),Emirates,B77W (A6-EGK),,Departed,22:55:00,10
+29/03/2023,22:55,KQ708,Harare (HRE),Kenya Airways,E190 (5Y-FFC),,Departed,23:13:00,18
+29/03/2023,23:00,MP8322,Amsterdam (AMS),Martinair Holland,747,,Unknown,0:00:00,-1380
+29/03/2023,23:00,ZF333,Liege (LGG),Magma Aviation,B744 (TF-AMP),,Departed,23:18:00,18
+29/03/2023,23:10,KQ304,Dubai (DXB),Kenya Airways,B738 (5Y-CYA),,Departed,0:12:00,-1378
+29/03/2023,23:30,KQ726,Lusaka (LUN),Kenya Airways,E90,,Departed,23:42:00,12
+29/03/2023,23:45,KQ488,Dar-es-Salaam (DAR),Kenya Airways,E190 (5Y-FFH),,Departed,0:00:00,-1425
+29/03/2023,23:50,AF838,Paris (CDG),Air France,B789 (F-HRBB),,Departed,0:36:00,-1394
+29/03/2023,23:50,KQ112,Paris (CDG),Kenya Airways,B788 (5Y-KZG),,Departed,0:52:00,-1378
+29/03/2023,23:59,KL566,Amsterdam (AMS),KLM,B78X (PH-BKF),,Departed,0:18:00,-1421
+29/03/2023,23:59,KQ624,Mombasa (MBA),Kenya Airways,E90,,Departed,0:02:00,-1437
+30/03/2023,0:00:00,SV948,Jeddah (JED),Saudia Cargo,B744 (9H-AKF),,Departed,0:08:00,8
+30/03/2023,0:05:00,KQ102,London (LHR),Kenya Airways,B788 (5Y-KZF),,Departed,0:28:00,23
+30/03/2023,0:55:00,KQ418,Entebbe (EBB),Kenya Airways,E190 (5Y-FFK),,Departed,1:00:00,5
+30/03/2023,1:00:00,SV430,Jeddah (JED),Saudia,A333 (HZ-AQ18),,Departed,1:22:00,22
+30/03/2023,1:10:00,KQ766,Johannesburg (JNB),Kenya Airways,B738 (5Y-CYD),,Departed,1:15:00,5
+30/03/2023,1:15:00,QR1342,Doha (DOH),Qatar Airways,A35K (A7-ANH),,Departed,1:31:00,16
+30/03/2023,1:15:00,TK6512,Istanbul (IST),Turkish Airlines,A332,,Unknown,0:00:00,-75
+30/03/2023,3:20:00,CV2613,Amsterdam (AMS),Cargolux,B744 (LX-YCV),,Departed,4:55:00,35
+30/03/2023,3:20:00,EY957,Amsterdam (AMS),Etihad Cargo,B77L (A6-DDD),,Departed,7:24:00,4
+30/03/2023,3:30:00,KQ882,Guangzhou (CAN),Kenya Airways (Come Live The Magic Livery),B788 (5Y-KZD),,Departed,6:57:00,27
+30/03/2023,5:00:00,ET309,Addis Ababa (ADD),Ethiopian Airlines,B77W (ET-ASL),,Departed,5:21:00,21
+30/03/2023,5:25:00,MS850,Cairo (CAI),EgyptAir,B738 (SU-GCR),,Departed,5:49:00,24
+30/03/2023,5:25:00,TK608,Istanbul (IST),Turkish Airlines,B738 (TC-JVG),,Departed,6:35:00,10
+30/03/2023,5:35:00,WB464,Kigali (KGL),RwandAir,DH8D (9XR-WM),,Departed,5:52:00,17
+30/03/2023,6:00:00,JM8650,Kisumu (KIS),Jambojet,DH8D (5Y-JXD),,Departed,6:06:00,6
+30/03/2023,6:00:00,5H417,Mombasa (MBA),Fly540,DH8,,Unknown,0:00:00,-360
+30/03/2023,6:10:00,JM8660,Eldoret (EDL),Jambojet,DH8D (5Y-JXC),,Departed,6:24:00,14
+30/03/2023,6:15:00,ET51,Lilongwe (LLW),Malawian Airlines,B738 (ET-APO),,Departed,6:26:00,11
+30/03/2023,6:30:00,KQ600,Mombasa (MBA),Kenya Airways,E90,,Departed,6:51:00,21
+30/03/2023,6:30:00,XU520,Mogadishu (MGQ),African Express Airways,M82,,Unknown,0:00:00,-390
+30/03/2023,6:35:00,JM8600,Mombasa (MBA),Jambojet,DH8D (5Y-JXM),,Departed,6:53:00,18
+30/03/2023,6:40:00,5H1407,Kisumu (KIS),Fly540,DH8,,Unknown,0:00:00,-400
+30/03/2023,7:00:00,4F101,Mogadishu (MGQ),Freedom Airline Express,CRJ,,Unknown,0:00:00,-420
+30/03/2023,7:15:00,JM8640,Malindi (MYD),Jambojet,DH8D (5Y-JXH),,Departed,7:28:00,13
+30/03/2023,7:15:00,KQ706,Lusaka (LUN),Kenya Airways,E190 (5Y-FFA),,Departed,7:40:00,25
+30/03/2023,7:20:00,KQ586,Lubumbashi (FBM),Kenya Airways,E90,,Departed,7:45:00,25
+30/03/2023,7:20:00,KQ730,Lilongwe (LLW),Kenya Airways (SkyTeam Livery),E190 (5Y-FFB),,Unknown,0:00:00,-440
+30/03/2023,7:40:00,KQ482,Dar-es-Salaam (DAR),Kenya Airways,E190 (5Y-FFC),,Departed,7:48:00,8
+30/03/2023,7:40:00,KQ470,Kigali (KGL),Kenya Airways,E90,,Departed,7:53:00,13
+30/03/2023,7:40:00,KQ554,Kinshasa (FIH),Kenya Airways,B738 (5Y-CYB),,Departed,8:03:00,23
+30/03/2023,7:40:00,TC201,Dar-es-Salaam (DAR),Air Tanzania,DH8D (5H-TCD),,Departed,7:59:00,19
+30/03/2023,7:45:00,KQ420,Entebbe (EBB),Kenya Airways,E190 (5Y-FFH),,Departed,7:57:00,12
+30/03/2023,7:45:00,KQ760,Johannesburg (JNB),Kenya Airways,B738 (5Y-CYC),,Departed,8:49:00,4
+30/03/2023,8:00:00,JM8698,Ukunda (UKA),Jambojet,DH8D (5Y-JXH),,Departed,10:51:00,51
+30/03/2023,8:00:00,KQ490,Zanzibar (ZNZ),Kenya Airways (SkyTeam Livery),E190 (5Y-FFB),,Departed,8:12:00,12
+30/03/2023,8:00:00,KQ602,Mombasa (MBA),Kenya Airways,E190 (5Y-FFK),,Departed,8:09:00,9
+30/03/2023,8:00:00,KQ2556,Kinshasa (FIH),Kenya Airways,73Y,,Unknown,0:00:00,-480
+30/03/2023,8:00:00,UR203,Entebbe (EBB),Uganda Airlines,CRJ9 (5X-EQU),,Departed,8:14:00,14
+30/03/2023,8:00:00,XU521,Mogadishu (MGQ),African Express Airways,M82,,Unknown,0:00:00,-480
+30/03/2023,8:00:00,7C5209,Juba (JUB),Jeju Air,72F,,Unknown,0:00:00,-480
+30/03/2023,8:00:00,8V80,Juba (JUB),Astral Aviation,727,,Unknown,0:00:00,-480
+30/03/2023,8:05:00,KQ784,Cape Town (CPT),Kenya Airways,B738 (5Y-KYE),,Departed,8:31:00,26
+30/03/2023,8:15:00,KQ520,Abidjan (ABJ),Kenya Airways,B738 (5Y-KYD),,Departed,8:33:00,18
+30/03/2023,8:20:00,PW718,Kilimanjaro (JRO),Precision Air,AT7,,Unknown,0:00:00,-500
+30/03/2023,8:25:00,JM8712,Mombasa (MBA),Jambojet,DH8D (5Y-JXB),,Departed,8:43:00,18
+30/03/2023,8:35:00,KQ654,Kisumu (KIS),Kenya Airways,E90,,Departed,8:44:00,9
+30/03/2023,9:00:00,JM8684,Lamu (LAU),Jambojet,DH8D (5Y-JXD),,Departed,9:03:00,3
+30/03/2023,9:10:00,JM8652,Kisumu (KIS),Jambojet,DH8D (5Y-JXC),,Departed,9:07:00,-3
+30/03/2023,9:10:00,KQ116,Amsterdam (AMS),Kenya Airways,B788 (5Y-KZB),,Departed,9:14:00,4
+30/03/2023,9:10:00,D9301,Mogadishu (MGQ),Dena Airways,B733 (5Y-KQB),,Departed,9:09:00,-1
+30/03/2023,9:20:00,KQ100,London (LHR),Kenya Airways,B788 (5Y-KZA),,Departed,9:35:00,15
+30/03/2023,9:30:00,4F101,Mogadishu (MGQ),Freedom Airline Express,CRJ,,Unknown,0:00:00,-570
+30/03/2023,9:40:00,5H1411,Malindi (MYD),Fly540,DH8,,Unknown,0:00:00,-580
+30/03/2023,10:00:00,4F401,Kisimayu (KMU),Freedom Airline Express,EM2,,Unknown,0:00:00,-600
+30/03/2023,10:10:00,JM8690,Ukunda (UKA),Jambojet,DH8D (5Y-JXM),,Departed,10:06:00,-4
+30/03/2023,10:20:00,KQ604,Mombasa (MBA),Kenya Airways,E90,,Departed,10:31:00,11
+30/03/2023,10:45:00,JM8604,Mombasa (MBA),Jambojet,DH4,,Canceled,0:00:00,-645
+30/03/2023,11:20:00,WB453,Kigali (KGL),RwandAir,DH8D (9XR-WM),,Departed,11:54:00,34
+30/03/2023,11:40:00,JM8646,Malindi (MYD),Jambojet,DH4,,Unknown,0:00:00,-700
+30/03/2023,11:45:00,ET319,Addis Ababa (ADD),Ethiopian Airlines,B77W (ET-ASK),,Unknown,0:00:00,-705
+30/03/2023,12:00:00,KQ508,Accra (ACC),Kenya Airways,B738 (5Y-CYD),,Departed,12:12:00,12
+30/03/2023,12:10:00,JM8662,Eldoret (EDL),Jambojet,DH8D (5Y-JXC),,Departed,12:14:00,4
+30/03/2023,12:15:00,KQ256,Antananarivo (TNR),Kenya Airways (Come Live The Magic Livery),E190 (5Y-FFJ),,Departed,12:29:00,14
+30/03/2023,12:20:00,JM8716,Mombasa (MBA),Jambojet,DH8D (5Y-JXI),,Departed,12:31:00,11
+30/03/2023,12:30:00,KQ730,Lilongwe (LLW),Kenya Airways (SkyTeam Livery),E190 (5Y-FFB),,Departed,12:37:00,7
+30/03/2023,12:35:00,KQ762,Johannesburg (JNB),Kenya Airways (SkyTeam Livery),B738 (5Y-CYE),,Departed,12:44:00,9
+30/03/2023,12:40:00,JM8658,Kisumu (KIS),Jambojet,DH8D (5Y-JXD),,Departed,13:14:00,34
+30/03/2023,12:40:00,KQ270,Port Louis (MRU),Kenya Airways,E190 (5Y-FFC),,Departed,12:55:00,15
+30/03/2023,13:00:00,KQ352,Juba (JUB),Kenya Airways,E190 (5Y-FFH),,Departed,13:16:00,16
+30/03/2023,13:00:00,KQ464,Bujumbura (BJM),Kenya Airways,E90,,Departed,13:11:00,11
+30/03/2023,13:00:00,KQ606,Mombasa (MBA),Kenya Airways,E190 (5Y-FFK),,Departed,13:06:00,6
+30/03/2023,13:15:00,KQ704,Harare (HRE),Kenya Airways,E190 (5Y-FFG),,Departed,13:30:00,15
+30/03/2023,13:30:00,KQ656,Kisumu (KIS),Kenya Airways,E90,,Canceled,0:00:00,-810
+30/03/2023,13:40:00,5H429,Eldoret (EDL),Fly540,DH8,,Unknown,0:00:00,-820
+30/03/2023,13:45:00,G9735,Sharjah (SHJ),Air Arabia,A21N (A6-ATF),,Departed,14:09:00,24
+30/03/2023,13:50:00,JM8642,Malindi (MYD),Jambojet,DH8D (5Y-JXM),,Departed,14:00:00,10
+30/03/2023,14:00:00,7C5205,Mwanza (MWZ),Jeju Air,72F,,Unknown,0:00:00,-840
+30/03/2023,14:00:00,8V25,Mwanza (MWZ),Astral Aviation,727,,Unknown,0:00:00,-840
+30/03/2023,14:00:00,5H401,Ukunda (UKA),Fly540,DH8,,Unknown,0:00:00,-840
+30/03/2023,14:15:00,KQ414,Entebbe (EBB),Kenya Airways,E90,,Departed,14:25:00,10
+30/03/2023,15:00:00,KQ608,Mombasa (MBA),Kenya Airways,73H,,Canceled,0:00:00,-900
+30/03/2023,15:05:00,JM8654,Kisumu (KIS),Jambojet,DH4,,Canceled,0:00:00,-905
+30/03/2023,15:10:00,JM8668,Eldoret (EDL),Jambojet,DH8D (5Y-JXH),,Departed,15:45:00,35
+30/03/2023,15:45:00,JM8692,Ukunda (UKA),Jambojet,DH8D (5Y-JXD),,Departed,16:07:00,22
+30/03/2023,16:05:00,JM8720,Mombasa (MBA),Jambojet,DH8D (5Y-JXI),,Departed,16:42:00,37
+30/03/2023,16:30:00,KQ426,Kilimanjaro (JRO),Kenya Airways,E90,,Departed,16:30:00,0
+30/03/2023,16:35:00,EK720,Dubai (DXB),Emirates,B77W (A6-EPP),,Departed,16:24:00,-11
+30/03/2023,16:45:00,KQ202,Mumbai (BOM),Kenya Airways,B738 (5Y-CYB),,Departed,17:39:00,54
+30/03/2023,17:00:00,KQ402,Addis Ababa (ADD),Kenya Airways,E90,,Departed,17:03:00,3
+30/03/2023,17:00:00,KQ610,Mombasa (MBA),Kenya Airways,E190 (5Y-FFK),,Departed,17:06:00,6
+30/03/2023,17:10:00,KQ310,Dubai (DXB),Kenya Airways,B788 (5Y-KZE),,Departed,17:26:00,16
+30/03/2023,17:20:00,JM8644,Malindi (MYD),Jambojet,DH8D (5Y-JXM),,Departed,17:37:00,17
+30/03/2023,17:25:00,JM8612,Mombasa (MBA),Jambojet,DH4,,Unknown,0:00:00,-1045
+30/03/2023,17:25:00,KQ670,Kisumu (KIS),Kenya Airways,E190 (5Y-FFA),,Departed,17:31:00,6
+30/03/2023,17:40:00,5H405,Mombasa (MBA),Fly540,DH8,,Unknown,0:00:00,-1060
+30/03/2023,18:05:00,JM8656,Kisumu (KIS),Jambojet,DH8D (5Y-JXH),,Departed,18:47:00,42
+30/03/2023,18:10:00,JM8664,Eldoret (EDL),Jambojet,DH8D (5Y-JXC),,Departed,17:10:00,-60
+30/03/2023,18:10:00,QR1336,Doha (DOH),Qatar Airways,A332 (A7-ACM),,Departed,18:27:00,17
+30/03/2023,18:30:00,KQ494,Zanzibar (ZNZ),Kenya Airways,E190 (5Y-FFH),,Departed,18:53:00,23
+30/03/2023,18:30:00,KQ486,Dar-es-Salaam (DAR),Kenya Airways,E90,,Departed,18:59:00,29
+30/03/2023,18:30:00,KQ534,Lagos (LOS),Kenya Airways,B738 (5Y-CYA),,Departed,18:57:00,27
+30/03/2023,18:30:00,ET319,Addis Ababa (ADD),Ethiopian Airlines,B77W (ET-ASK),,Departed,18:43:00,13
+30/03/2023,18:35:00,KQ416,Entebbe (EBB),Kenya Airways,E190 (5Y-KYT),,Departed,18:49:00,14
+30/03/2023,18:40:00,5H409,Kisumu (KIS),Fly540,DH8,,Unknown,0:00:00,-1120
+30/03/2023,19:00:00,ET307,Addis Ababa (ADD),Ethiopian Airlines,77L,,Canceled,0:00:00,-1140
+30/03/2023,19:00:00,KQ612,Mombasa (MBA),Kenya Airways (SkyTeam Livery),E190 (5Y-FFB),,Departed,0:00:00,-1140
+30/03/2023,19:25:00,PW712,Zanzibar (ZNZ),Precision Air,AT7,,Unknown,19:11:00,-14
+30/03/2023,19:45:00,JM8718,Mombasa (MBA),Jambojet,DH8D (5Y-JXC),,Departed,20:33:00,48
+30/03/2023,19:45:00,KQ306,Mombasa (MBA),Kenya Airways,B738 (5Y-CYC),,Departed,19:59:00,14
+30/03/2023,20:00:00,PW720,Kilimanjaro (JRO),Precision Air,AT7,,Unknown,0:00:00,-1200
+30/03/2023,20:50:00,WB403,Kigali (KGL),RwandAir,DH8D (9XR-WM),,Departed,21:02:00,12
+30/03/2023,20:50:00,KQ204,Mumbai (BOM),Kenya Airways,738,,Unknown,0:00:00,-1250
+30/03/2023,21:00:00,KQ764,Johannesburg (JNB),Kenya Airways,B738 (5Y-KYE),,Departed,22:43:00,43
+30/03/2023,21:00:00,KQ2774,Johannesburg (JNB),Kenya Airways,73Y,,Unknown,0:00:00,-1260
+30/03/2023,21:00:00,8V520,Johannesburg (JNB),Astral Aviation,767,,Unknown,0:00:00,-1260
+30/03/2023,21:00:00,8V90,Maputo (MPM),Astral Aviation,727,,Unknown,0:00:00,-1260
+30/03/2023,21:20:00,JM8714,Mombasa (MBA),Jambojet,DH4,,Unknown,0:00:00,-1280
+30/03/2023,22:10:00,TC203,Dar-es-Salaam (DAR),Air Tanzania,DH8D (5H-TCE),,Departed,22:59:00,49
+30/03/2023,22:25:00,LH591,Frankfurt (FRA),Lufthansa,A333 (D-AIKI),,Departed,22:34:00,9
+30/03/2023,22:45:00,BA64,London (LHR),British Airways,A35K (G-XWBI),,Departed,23:06:00,21
+30/03/2023,22:45:00,EK722,Dubai (DXB),Emirates,B77W (A6-EGR),,Departed,22:54:00,9
+30/03/2023,22:45:00,UR205,Entebbe (EBB),Uganda Airlines,CRJ9 (5X-EQU),,Departed,22:13:00,-32
+30/03/2023,23:00:00,MP8142,Amsterdam (AMS),KLM Cargo,B744 (PH-CKA),,Departed,23:17:00,17
+30/03/2023,23:20:00,KQ348,Khartoum (KRT),Kenya Airways (Come Live The Magic Livery),E190 (5Y-FFJ),,Departed,23:37:00,17
+30/03/2023,23:20:00,KQ514,Accra (ACC),Kenya Airways (SkyTeam Livery),B738 (5Y-CYE),,Departed,23:45:00,25
+30/03/2023,23:30:00,AF813,Paris (CDG),Air France,B789 (F-HRBI),,Departed,0:12:00,-1398
+30/03/2023,23:30:00,UU977,Paris (CDG),Air Austral,B788 (F-OLRB),,Departed,23:31:00,1
+30/03/2023,23:30:00,8V2604,Liege (LGG),Astral Aviation,B744 (TF-AMM),,Departed,23:48:00,18
+30/03/2023,23:35:00,KQ2,New York (JFK),Kenya Airways,B788,,Departed,0:49:00,-1366
+30/03/2023,23:45:00,KQ488,Dar-es-Salaam (DAR),Kenya Airways (SkyTeam Livery),E190 (5Y-FFB),,Departed,0:01:00,-1424
+30/03/2023,23:50:00,KQ112,Paris (CDG),Kenya Airways,788,,Canceled,0:00:00,-1430
+30/03/2023,23:59:00,KL566,Amsterdam (AMS),KLM,B78X (PH-BKL),,Departed,0:09:00,10
+30/03/2023,23:59:00,KQ624,Mombasa (MBA),Kenya Airways,E190 (5Y-FFA),,Departed,0:08:00,9
